@@ -3482,6 +3482,11 @@ textarea.form-control-lg {
   color: #6c757d;
 }
 
+.companies{
+  text-decoration: none; 
+  color: #6c757d;
+}
+
 .btn-lg, .btn-group-lg > .btn {
   padding: 0.5rem 1rem;
   font-size: 1.25rem;
